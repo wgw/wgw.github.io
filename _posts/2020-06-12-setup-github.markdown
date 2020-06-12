@@ -28,3 +28,7 @@ categories: nuts-and-bolts jekyll
 
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+# Various
+
+- popd, pushd
+
