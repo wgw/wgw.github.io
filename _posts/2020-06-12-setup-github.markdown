@@ -31,4 +31,5 @@ categories: nuts-and-bolts jekyll
 # Various
 
 - popd, pushd
+- setup ssh 
 
